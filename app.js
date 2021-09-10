@@ -21,7 +21,7 @@ const addUser = () => {
     return;
   }
 
-  // adding comment 2 months 1 day ago
+  // adding comment 70 day ago
 
   const userList = document.querySelector('.user-list');
   const outputText = generateText(

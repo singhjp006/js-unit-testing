@@ -21,6 +21,8 @@ const addUser = () => {
     return;
   }
 
+  // adding comment 2 months ago
+
   const userList = document.querySelector('.user-list');
   const outputText = generateText(
     newUserNameInput.value,

@@ -6,6 +6,8 @@ const initApp = () => {
   newUserButton.addEventListener('click', addUser);
 };
 
+// adding comment 10 days ago
+
 const addUser = () => {
   // Fetches the user input, creates a new HTML element based on it
   // and appends the element to the DOM
